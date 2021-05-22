@@ -9,7 +9,7 @@ Execute the google Dataflow from local (windows) using Anaconda prompt(python)
 
 3.You can ignore Install Python virtual environment
 
-4.Install the pip install apache-beam[gcp] for doing the operation with google cloud
+4.Install the "pip install apache-beam[gcp]" for doing the operation with google cloud
 
 5.Execute a pipeline using below command. Apache beam will use your local system paths to process.
 
